@@ -21,3 +21,14 @@
 li{
 	list-style-type: none;
 }
+
+@media (min-width: 767px){
+	.contenido {
+	height: 80vh;
+	}
+
+	.sidebar {
+		height: 80vh;
+	}
+
+}
