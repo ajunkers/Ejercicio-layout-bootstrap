@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+}
+
+.cabecera, .pie {
+	background-color: #2d3142;
+	color: #fff;
+	height: 10vh;
+}
+
+.contenido {
+	background-color: #d8d5db;
+	height: 40vh;
+}
+
+.sidebar {
+	background-color: #adacb5;
+	height: 40vh;
+}
+
+li{
+	list-style-type: none;
+}
