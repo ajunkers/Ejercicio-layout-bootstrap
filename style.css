@@ -14,9 +14,7 @@
 	padding-top: 20px;
 }
 
-.sidebar ul {
-	padding-left: 0;
-}
+
 .sidebar {
 	background-color: #adacb5;
 	height: 40vh;
@@ -37,3 +35,4 @@ li{
 	}
 
 }
+
